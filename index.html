@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>希望之星少儿A组备考训练</title>
+    <link rel="stylesheet" href="styles.css?v=20260509-playful-1" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <main class="main">
+        <header class="topbar">
+          <div class="brand">
+            <button class="brand-mark" data-view="home" type="button" aria-label="返回首页">HS</button>
+            <div>
+              <p class="eyebrow">少儿A组 · 2026全国盛典</p>
+              <h1 id="viewTitle">选择今天练哪个环节</h1>
+            </div>
+          </div>
+          <div class="top-actions">
+            <div class="stats-strip" id="statsStrip"></div>
+            <button class="btn" data-view="history" type="button">练习记录</button>
+          </div>
+        </header>
+
+        <section id="content" class="content" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <template id="emptyStateTemplate">
+      <div class="empty-state">
+        <h3>还没有练习记录</h3>
+        <p>完成一次计时训练后，这里会出现文字稿、评分、录音和录像。</p>
+      </div>
+    </template>
+
+    <script src="app.js?v=20260509-playful-1"></script>
+  </body>
+</html>

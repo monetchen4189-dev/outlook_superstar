@@ -1,0 +1,882 @@
+[
+  {
+    "id": "opinion-01",
+    "type": "opinion",
+    "number": 1,
+    "title": "Animals make the best friends.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that animals make the best friends. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-02",
+    "type": "opinion",
+    "number": 2,
+    "title": "Home-cooked food is the best food.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that home-cooked food is the best food. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-03",
+    "type": "opinion",
+    "number": 3,
+    "title": "Students should wear what they want to school.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that students should wear what they want to school. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-04",
+    "type": "opinion",
+    "number": 4,
+    "title": "Books are better than movies.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that books are better than movies. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-05",
+    "type": "opinion",
+    "number": 5,
+    "title": "We should have school four days a week.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that we should have school four days a week. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-06",
+    "type": "opinion",
+    "number": 6,
+    "title": "Every child should have a pet.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that every child should have a pet. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-07",
+    "type": "opinion",
+    "number": 7,
+    "title": "Playing outside is better than watching TV.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that playing outside is better than watching tv. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-08",
+    "type": "opinion",
+    "number": 8,
+    "title": "Robots should help teachers in the classroom.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that robots should help teachers in the classroom. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-09",
+    "type": "opinion",
+    "number": 9,
+    "title": "All school days should start later.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that all school days should start later. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-10",
+    "type": "opinion",
+    "number": 10,
+    "title": "AI art is better than human art.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that ai art is better than human art. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-11",
+    "type": "opinion",
+    "number": 11,
+    "title": "It’s better to be funny than to be serious.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s better to be funny than to be serious. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-12",
+    "type": "opinion",
+    "number": 12,
+    "title": "Kids should get pocket money.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that kids should get pocket money. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-13",
+    "type": "opinion",
+    "number": 13,
+    "title": "Dinosaurs would make great pets.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that dinosaurs would make great pets. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-14",
+    "type": "opinion",
+    "number": 14,
+    "title": "School lunch should always have dessert.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that school lunch should always have dessert. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-15",
+    "type": "opinion",
+    "number": 15,
+    "title": "It’s fun to get messy and dirty.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s fun to get messy and dirty. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-16",
+    "type": "opinion",
+    "number": 16,
+    "title": "Walking is better than taking transport.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that walking is better than taking transport. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-17",
+    "type": "opinion",
+    "number": 17,
+    "title": "It’s more fun to be outside when it rains.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s more fun to be outside when it rains. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-18",
+    "type": "opinion",
+    "number": 18,
+    "title": "Everyone should learn how to cook.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that everyone should learn how to cook. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-19",
+    "type": "opinion",
+    "number": 19,
+    "title": "Birthdays should last more than one day.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that birthdays should last more than one day. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-20",
+    "type": "opinion",
+    "number": 20,
+    "title": "Reading is more fun than playing games.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that reading is more fun than playing games. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-21",
+    "type": "opinion",
+    "number": 21,
+    "title": "Every classroom should have a pet.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that every classroom should have a pet. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-22",
+    "type": "opinion",
+    "number": 22,
+    "title": "Pizza is the best food.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that pizza is the best food. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-23",
+    "type": "opinion",
+    "number": 23,
+    "title": "It's better to be kind than successful.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it's better to be kind than successful. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-24",
+    "type": "opinion",
+    "number": 24,
+    "title": "Homework should only be on weekends.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that homework should only be on weekends. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-25",
+    "type": "opinion",
+    "number": 25,
+    "title": "Every day should be a holiday.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that every day should be a holiday. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-26",
+    "type": "opinion",
+    "number": 26,
+    "title": "It’s better to be loud than quiet.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s better to be loud than quiet. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-27",
+    "type": "opinion",
+    "number": 27,
+    "title": "Everyone should know how to dance.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that everyone should know how to dance. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-28",
+    "type": "opinion",
+    "number": 28,
+    "title": "Flying would be the best superpower.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that flying would be the best superpower. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-29",
+    "type": "opinion",
+    "number": 29,
+    "title": "It’s better to write by hand than type on a keyboard.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s better to write by hand than type on a keyboard. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-30",
+    "type": "opinion",
+    "number": 30,
+    "title": "Sweet things are better than salty things.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that sweet things are better than salty things. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-31",
+    "type": "opinion",
+    "number": 31,
+    "title": "It's more fun to play in the snow than at the beach.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it's more fun to play in the snow than at the beach. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-32",
+    "type": "opinion",
+    "number": 32,
+    "title": "They should always play music in classrooms.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that they should always play music in classrooms. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-33",
+    "type": "opinion",
+    "number": 33,
+    "title": "School should have a nap time.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that school should have a nap time. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-34",
+    "type": "opinion",
+    "number": 34,
+    "title": "Kids should choose what they learn.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that kids should choose what they learn. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-35",
+    "type": "opinion",
+    "number": 35,
+    "title": "Everyone should have a secret hideout.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that everyone should have a secret hideout. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-36",
+    "type": "opinion",
+    "number": 36,
+    "title": "It's better to give presents than to get them.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it's better to give presents than to get them. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-37",
+    "type": "opinion",
+    "number": 37,
+    "title": "Superheroes should be real.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that superheroes should be real. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-38",
+    "type": "opinion",
+    "number": 38,
+    "title": "Breakfast is nicer than dinner.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that breakfast is nicer than dinner. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-39",
+    "type": "opinion",
+    "number": 39,
+    "title": "It's more fun to be outside than inside.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it's more fun to be outside than inside. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-40",
+    "type": "opinion",
+    "number": 40,
+    "title": "Every day should be your birthday.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that every day should be your birthday. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-41",
+    "type": "opinion",
+    "number": 41,
+    "title": "Laughing is the best medicine.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that laughing is the best medicine. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-42",
+    "type": "opinion",
+    "number": 42,
+    "title": "Breakfast is the most important meal of the day.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that breakfast is the most important meal of the day. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-43",
+    "type": "opinion",
+    "number": 43,
+    "title": "All children should learn how to swim.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that all children should learn how to swim. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-44",
+    "type": "opinion",
+    "number": 44,
+    "title": "It’s better to be fast than strong.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s better to be fast than strong. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-45",
+    "type": "opinion",
+    "number": 45,
+    "title": "Cartoons are better than movies.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that cartoons are better than movies. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-46",
+    "type": "opinion",
+    "number": 46,
+    "title": "Summer is better than winter.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that summer is better than winter. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-47",
+    "type": "opinion",
+    "number": 47,
+    "title": "It’s more fun to be at school than at home.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s more fun to be at school than at home. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-48",
+    "type": "opinion",
+    "number": 48,
+    "title": "Clothes should always be colourful.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that clothes should always be colourful. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-49",
+    "type": "opinion",
+    "number": 49,
+    "title": "Every kid should have a magic wand.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that every kid should have a magic wand. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-50",
+    "type": "opinion",
+    "number": 50,
+    "title": "Sharing is more fun than keeping.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that sharing is more fun than keeping. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-51",
+    "type": "opinion",
+    "number": 51,
+    "title": "Animals should live in houses like people.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that animals should live in houses like people. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-52",
+    "type": "opinion",
+    "number": 52,
+    "title": "It’s better to play with friends than by yourself.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s better to play with friends than by yourself. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-53",
+    "type": "opinion",
+    "number": 53,
+    "title": "Every park should have a water slide.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that every park should have a water slide. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-54",
+    "type": "opinion",
+    "number": 54,
+    "title": "We should always eat a lot.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that we should always eat a lot. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  },
+  {
+    "id": "opinion-55",
+    "type": "opinion",
+    "number": 55,
+    "title": "It’s more fun to paint with your fingers than a brush.",
+    "prepSeconds": 300,
+    "speakSeconds": 60,
+    "reference": "I agree with the idea that it’s more fun to paint with your fingers than a brush. First, it is good for children because it can make our life happier and easier. Also, I can think of an example from my own life. When I try it, I feel more confident and learn something new. That is why I agree with this idea.",
+    "frames": [
+      "I agree / disagree.",
+      "First, ...",
+      "Also, ...",
+      "For example, ...",
+      "That is why ..."
+    ]
+  }
+]
