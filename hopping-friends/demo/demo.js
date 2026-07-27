@@ -6,14 +6,30 @@ const startSession = document.querySelector('#startSession');
 const feedPet = document.querySelector('#feedPet');
 const dressPet = document.querySelector('#dressPet');
 const pet = document.querySelector('#demoPet');
-const petHat = document.querySelector('#petHat');
+const foodBite = document.querySelector('#foodBite');
 const petMood = document.querySelector('#petMood');
 const cheerMessage = document.querySelector('#cheerMessage');
+
+const outfits = [
+  { className: 'outfit-sporty', label: 'a blue sport shirt' },
+  { className: 'outfit-hoodie', label: 'an orange hoodie and cap' },
+  { className: 'outfit-star', label: 'a star cape and bow' },
+  { className: 'outfit-cozy', label: 'a green outfit and scarf' },
+];
+
+const foods = [
+  { className: 'food-carrot', label: 'a crunchy carrot' },
+  { className: 'food-strawberry', label: 'a sweet strawberry' },
+  { className: 'food-cookie', label: 'a tiny cookie' },
+  { className: 'food-leaf', label: 'a green veggie leaf' },
+];
 
 const state = {
   jumps: 0,
   points: 0,
   goal: 100,
+  outfitIndex: -1,
+  foodIndex: -1,
   running: false,
   timer: null,
 };
@@ -38,6 +54,25 @@ function addJump(amount = 4) {
   render();
 }
 
+function dressUpPet() {
+  state.outfitIndex = (state.outfitIndex + 1) % outfits.length;
+  const outfit = outfits[state.outfitIndex];
+  outfits.forEach(({ className }) => pet.classList.remove(className));
+  pet.classList.add(outfit.className);
+  return outfit;
+}
+
+function feedPetSnack() {
+  state.foodIndex = (state.foodIndex + 1) % foods.length;
+  const food = foods[state.foodIndex];
+  foods.forEach(({ className }) => foodBite.classList.remove(className));
+  foodBite.classList.remove('is-feeding');
+  foodBite.classList.add(food.className);
+  void foodBite.offsetWidth;
+  foodBite.classList.add('is-feeding');
+  return food;
+}
+
 function stopSession() {
   state.running = false;
   startSession.textContent = 'Start';
@@ -58,26 +93,27 @@ startSession.addEventListener('click', () => {
 });
 
 feedPet.addEventListener('click', () => {
-  if (state.points < 10) {
-    celebratePet('Jump more to earn 10 points for a snack.');
-    return;
+  const hasEnoughPoints = state.points >= 10;
+  if (hasEnoughPoints) {
+    state.points -= 10;
   }
 
-  state.points -= 10;
   render();
-  celebratePet('Yum! Your pet feels stronger.');
+  const food = feedPetSnack();
+  const rewardText = hasEnoughPoints ? 'You used 10 points.' : 'Free snack demo.';
+  celebratePet(`${rewardText} Sunny Bunny ate ${food.label}.`);
 });
 
 dressPet.addEventListener('click', () => {
-  if (state.points < 20) {
-    celebratePet('Earn 20 points to dress up your pet.');
-    return;
+  const hasEnoughPoints = state.points >= 20;
+  if (hasEnoughPoints) {
+    state.points -= 20;
   }
 
-  state.points -= 20;
   render();
-  petHat.classList.add('is-wearing');
-  celebratePet('Nice cap! Your pet is ready to hop.');
+  const outfit = dressUpPet();
+  const rewardText = hasEnoughPoints ? 'You used 20 points.' : 'Free try-on for the demo.';
+  celebratePet(`${rewardText} Your pet is wearing ${outfit.label}.`);
 });
 
 document.querySelectorAll('[data-friend]').forEach((button) => {

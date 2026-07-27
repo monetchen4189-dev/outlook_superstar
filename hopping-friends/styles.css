@@ -29,7 +29,7 @@ body {
   background:
     radial-gradient(circle at 12% 6%, rgba(255, 255, 255, 0.9) 0 8rem, transparent 8.1rem),
     radial-gradient(circle at 92% 2%, rgba(191, 238, 255, 0.9) 0 10rem, transparent 10.1rem),
-    linear-gradient(180deg, var(--mint) 0 22rem, var(--cream) 22rem 100%);
+    linear-gradient(180deg, var(--mint) 0 36rem, var(--cream) 36rem 100%);
 }
 
 main {
@@ -70,9 +70,10 @@ p {
 
 h1 {
   margin-bottom: 0;
+  padding-bottom: 0.18em;
   color: var(--mint-deep);
-  font-size: clamp(3.4rem, 10vw, 6.8rem);
-  line-height: 0.96;
+  font-size: clamp(3.2rem, 9vw, 6.4rem);
+  line-height: 1.08;
 }
 
 h2 {
@@ -397,6 +398,13 @@ h2 {
 }
 
 @media (max-width: 780px) {
+  body {
+    background:
+      radial-gradient(circle at 12% 6%, rgba(255, 255, 255, 0.9) 0 8rem, transparent 8.1rem),
+      radial-gradient(circle at 92% 2%, rgba(191, 238, 255, 0.9) 0 10rem, transparent 10.1rem),
+      linear-gradient(180deg, var(--mint) 0 64rem, var(--cream) 64rem 100%);
+  }
+
   main {
     width: min(100% - 22px, 520px);
     padding-top: 18px;
@@ -411,6 +419,11 @@ h2 {
 
   .hero-copy {
     gap: 16px;
+  }
+
+  h1 {
+    font-size: clamp(3rem, 14vw, 4.8rem);
+    line-height: 1.12;
   }
 
   .lead {
