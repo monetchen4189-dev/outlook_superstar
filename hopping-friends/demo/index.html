@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Try a simple Hopping Friends app demo with jumps, points, pet rewards, and friend cheers."
+    >
+    <title>Hopping Friends Demo</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="./demo.css">
+  </head>
+  <body class="demo-body">
+    <main class="demo-shell">
+      <nav class="demo-nav" aria-label="Demo navigation">
+        <a href="../">← Back</a>
+        <span>Hopping Friends Demo</span>
+      </nav>
+
+      <section class="demo-phone" aria-label="Interactive Hopping Friends demo">
+        <header class="demo-header">
+          <div>
+            <p class="eyebrow">Jump session</p>
+            <h1>Start Jumping</h1>
+          </div>
+          <button id="startSession" class="round-button" type="button">Start</button>
+        </header>
+
+        <section class="score-grid" aria-label="Jumping progress">
+          <div>
+            <span>Jumps</span>
+            <strong id="jumpCount">0</strong>
+          </div>
+          <div>
+            <span>Points</span>
+            <strong id="pointCount">0</strong>
+          </div>
+          <div>
+            <span>Goal</span>
+            <strong id="goalPercent">0%</strong>
+          </div>
+        </section>
+
+        <div class="demo-progress" aria-label="Daily goal progress">
+          <span id="goalBar"></span>
+        </div>
+
+        <section class="pet-card" aria-label="Pet reward area">
+          <div id="demoPet" class="demo-pet" aria-hidden="true">
+            <span class="demo-ear left"></span>
+            <span class="demo-ear right"></span>
+            <span class="demo-face"></span>
+            <span id="petHat" class="pet-hat"></span>
+          </div>
+          <div>
+            <p class="pet-name">Sunny Bunny</p>
+            <p id="petMood">Jump to earn points for your pet.</p>
+            <div class="pet-actions">
+              <button id="feedPet" type="button">Feed Pet</button>
+              <button id="dressPet" type="button">Dress Up</button>
+            </div>
+          </div>
+        </section>
+
+        <section class="demo-friends" aria-label="Friend cheer area">
+          <h2>Cheer Friends</h2>
+          <div class="demo-friend-row">
+            <span>Amy: 320 jumps</span>
+            <button type="button" data-friend="Amy">Cheer!</button>
+          </div>
+          <div class="demo-friend-row">
+            <span>Leo: 210 jumps</span>
+            <button type="button" data-friend="Leo">Cheer!</button>
+          </div>
+          <p id="cheerMessage" class="cheer-message">Friends make sports more fun.</p>
+        </section>
+      </section>
+    </main>
+
+    <script src="./demo.js"></script>
+  </body>
+</html>
